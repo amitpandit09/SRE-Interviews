@@ -67,3 +67,7 @@ This repository is for advanced SRE prepartion in depth.
 * [commands 1](https://cwong47.gitlab.io/technology-sre-devops-interview-questions/#linux)
 
 * [hit counter](https://nuttynanaus.wordpress.com/2014/03/09/software-engineer-interview-questions/)
+
+# Medium Articles
+
+* [Kernel working](https://medium.com/@cloudchef/linux-boot-process-part-2-bd7514913495)
