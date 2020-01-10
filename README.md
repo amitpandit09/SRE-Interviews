@@ -68,6 +68,10 @@ This repository is for advanced SRE prepartion in depth.
 
 * [hit counter](https://nuttynanaus.wordpress.com/2014/03/09/software-engineer-interview-questions/)
 
+* [other 1](https://www.careercup.com/page?pid=site-reliability-engineer-interview-questions)
+
+* [other 2](https://www.teamblind.com/post/Apple-on-site-SRE-interview-zqK66GJw)
+
 # Medium Articles
 
 * [Kernel working](https://medium.com/@cloudchef/linux-boot-process-part-2-bd7514913495)
