@@ -75,3 +75,7 @@ This repository is for advanced SRE prepartion in depth.
 # Medium Articles
 
 * [Kernel working](https://medium.com/@cloudchef/linux-boot-process-part-2-bd7514913495)
+
+Notes:
+
+fail fast vs fail safe
