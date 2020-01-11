@@ -51,6 +51,8 @@ This repository is for advanced SRE prepartion in depth.
 
 # System design
 
+* [My SD question list](https://github.com/amitpandit09/SRE-Interviews/blob/master/SysdemDesignQuestions.md)
+
 * [succeed in system design](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26)
 
 * [tiny url service](https://medium.com/swlh/how-to-build-a-tiny-url-service-that-scales-to-billions-f6fb5ea22e8c)
