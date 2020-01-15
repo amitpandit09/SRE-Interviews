@@ -50,6 +50,8 @@ This repository is for advanced SRE prepartion in depth.
 
 * [Curl Vs Wget](https://unix.stackexchange.com/questions/47434/what-is-the-difference-between-curl-and-wget)
 
+* [Linux commands](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
+
 
 # System design
 
