@@ -48,6 +48,8 @@ This repository is for advanced SRE prepartion in depth.
 
 * [Infrastructure automation](http://stephenmann.io/post/a-brief-introduction-to-infrastructure-automation/)
 
+* [Curl Vs Wget](https://unix.stackexchange.com/questions/47434/what-is-the-difference-between-curl-and-wget)
+
 
 # System design
 
