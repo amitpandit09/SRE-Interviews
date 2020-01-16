@@ -62,6 +62,8 @@ This repository is for advanced SRE prepartion in depth.
 
 * [Qemu](https://www.fir3net.com/UNIX/Linux/what-is-the-difference-between-qemu-and-kvm.html)
 
+* [NUMA](http://www.techplayon.com/what-is-numa-non-uniform-memory-access/)
+
 
 # System design
 
