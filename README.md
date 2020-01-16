@@ -56,6 +56,12 @@ This repository is for advanced SRE prepartion in depth.
 
 * [imp utilities](https://linoxide.com/linux-command/linux-inode/)
 
+* [virtual fs /proc](https://www.thegeekdiary.com/understanding-the-proc-file-system/)
+
+* [KVM](https://www.redhat.com/en/topics/virtualization/what-is-KVM)
+
+* [Qemu](https://www.fir3net.com/UNIX/Linux/what-is-the-difference-between-qemu-and-kvm.html)
+
 
 # System design
 
