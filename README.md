@@ -54,6 +54,8 @@ This repository is for advanced SRE prepartion in depth.
 
 * [tune2fs and fsck](https://www.thegeekdiary.com/maintaining-linux-filesystems-using-fsck-and-tune2fs/)
 
+* [imp utilities](https://linoxide.com/linux-command/linux-inode/)
+
 
 # System design
 
