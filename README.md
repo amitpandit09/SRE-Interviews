@@ -52,6 +52,8 @@ This repository is for advanced SRE prepartion in depth.
 
 * [Linux commands](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 
+* [tune2fs and fsck](https://www.thegeekdiary.com/maintaining-linux-filesystems-using-fsck-and-tune2fs/)
+
 
 # System design
 
