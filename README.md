@@ -94,6 +94,10 @@ This repository is for advanced SRE prepartion in depth.
 
 * [Kernel working](https://medium.com/@cloudchef/linux-boot-process-part-2-bd7514913495)
 
+# StackOver Flow
+
+* [zombie process vs orphan](https://stackoverflow.com/questions/20688982/zombie-process-vs-orphan-process)
+
 Notes:
 
 fail fast vs fail safe
