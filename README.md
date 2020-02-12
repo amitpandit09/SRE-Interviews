@@ -90,6 +90,8 @@ This repository is for advanced SRE prepartion in depth.
 
 * [other 2](https://www.teamblind.com/post/Apple-on-site-SRE-interview-zqK66GJw)
 
+* [other 3](https://www.glassdoor.com/Interview/Amazon-Systems-Development-Engineer-Interview-Questions-EI_IE6036.0,6_KO7,35_IP2.htm)
+
 # Medium Articles
 
 * [Kernel working](https://medium.com/@cloudchef/linux-boot-process-part-2-bd7514913495)
