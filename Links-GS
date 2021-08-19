@@ -1,0 +1,204 @@
+Notes: 
+
+
+List of questions : 
+
+1. Find the student with the highest average and output his average score - Done
+
+2. Calculate each student's top five average. - Done
+
+3. Find the second largest element in an array - Done
+
+4. Reverse a link list from given tree
+
+5. Coderpad round: 2 problems were given, 
+	1. Trapping rain water 
+	2. Maximum path sum from bottom-left to top right of an array(Problem statement was different). In this round you will also be asked to provide the test cases to check your function(template of test function was given). I solved both the problems
+
+6. https://leetcode.com/problems/high-five/
+https://leetcode.com/problems/minimum-size-subarray-sum/
+
+7. Return an array containing prime numbers whose product is x
+input :
+x = 12
+output
+[2,2,3]
+input :
+x = 5
+output
+[5]
+input :
+x = 6
+output
+[2,3]
+https://leetcode.com/discuss/interview-experience/996433/goldman-sachs-coderpad-round
+
+
+8. https://leetcode.com/problems/first-unique-character-in-a-string/
+(messed this up) String compression problem could not find a similar one in leetcode
+
+9. Pascal’s triangle problem
+
+10. "Find smallest prime factors for a given number". Eg: n = 12, o/p => 2*2*3.
+11. Given the integer, return true if it's a power of 10 else return false.
+12. Group all anagrams
+13. Find shortest path between stations (this was oops based)
+14. 
+Minimum number of steps for bishop to reach target position
+https://www.careercup.com/question?id=5598833467719680
+Solved it with some help from the interviewer
+15. 
+
+
+The question states optimize input in such a way that repeating pattern is replaced with "*"
+Example :
+input - "ABABCABABCD"
+output - "AB*C*D"
+Explanation -
+Here, till "AB*" of the output, "AB" repeats twice, but till "AB*C*" , "ABABC" repeats twice in the input string
+
+https://leetcode.com/discuss/interview-question/759627/goldman-sachs-2-years-experience
+
+
+16. 
+
+https://leetcode.com/discuss/interview-question/1385494/Goldman-Sachs-CoderPad-Round-1
+
+1.) Find the second smallest number in an array.
+2.) Given a dictionary of the words(strings) which contains different words & you are given an input string e.g. “abd”. You need to find the largest word available in the supplied dictionary which can be made using the letters of input string. The returned word can contain only the same no of occurrences of the letters as given in the input string i.e. if a letter is given once then in the output it should be existed only once. Examples:
+
+
+17. 
+
+Input: A 2-D array with name and their score, there can be multiple scores for the same student.
+Output: return the max avg of all the students.
+Input: There is a Interval class with 3 arguments , startTime, endTime and price, you are given a list of Interval objects, something like : { {1,5,20}, {3,8,15}, {8,10, 8}}. You have to return a list of intervals with startTime, endTime and min privce for that interval.
+Output should be : {{1,3,20}, {4,7,15},{8,10,8}
+
+https://leetcode.com/discuss/interview-question/1221593/Coderpad-interview-for-Goldman-Sachs-NYC
+
+
+
+
+
+
+
+Given String and a prefix, find list of indexes of a prefix in that given string.
+
+
+
+Coderpad round: 2 questions to be completed in 1 hr
+
+Ques 1: Group all anagrams and return as set of list
+Ques 2: Find max sum of rocks in 2d matrix from source to destination
+
+
+Atoi - Given with a "bug" - https://leetcode.com/problems/string-to-integer-atoi/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRE
+
+List manipulation, dictionaries and improve test cases
+Given a string and a dictionary, find the longest word in the dictionary that can be made from the letters of the given string.
+
+
+
+
+
+======================
+GS : 
+
+Senior position : 
+
+provided with map of child and parent nodes of tree in a jungle
+find the maximum tree and return the id ( root node )
+if you find more number of trees return minimum root node value
+ex: 1 ( child ) --> 2 ( parent ) , 3 --> 4 , 5 --> 3 --> answer is 4 
+
+Coderpad round - LC Medium, LC Hard (1 hour). Need to pass test cases (limited test cases).
+
+
+Coderpad: given an array scores[][] = {“jerry”,”65”},{“bob”,”91”}, {“jerry”,”23”}, {“Eric”,”83”}} Find the student with highest average score
+
+20 Answers
+
+
+Leetcode medium style - Array, String, DP
+
+Find the second largest element in an array.
+Given a block of code that doesn't give the expected results, fix it.
+
+Design an employee hierarchy system
+Reverse a link list from given tree
+
+
+
+
+Similar to question https://leetcode.com/problems/pascals-triangle-ii/ , only thing is instead of only rowIndex, colIndex was also provided. You need to return the value at particular (rowIndex, colIndex). Did the recursive solution.
+
+
+Find second smallest element in the array -> + 2 continuations. I spent several minutes trying to make the solution more succint then got nervous.
+A variation of 1096. High five
+
+*1st que **: https://leetcode.com/problems/fraction-to-recurring-decimal/ (Completely solved by me with all test cases passed )
+
+Coderpad round: 2 problems were given, 1. Trapping rain water 2. Maximum path sum from bottom-left to top right of an array(Problem statement was different). In this round you will also be asked to provide the test cases to check your function(template of test function was given). I solved both the problems
+
+CoderPad
+
+https://leetcode.com/problems/high-five/
+https://leetcode.com/problems/minimum-size-subarray-sum/
+
+
+Round 1 (Coderpad + voice call): Two easy-medium level questions were discussed and you need to write the complete runnable call and pass all the test cases.
+
+Given a String and two words (which occur in the given string), find the minimum distance between two words. Distance between two words is defined as the number of characters between the given two words’ middle characters. The brute-force approach was already implemented but it had some logical bugs, and because of which sample test cases were failing. The objective was to find and fix those bugs and then to add some new test cases and write a code for those test cases as well.
+Minimum path sum
+
+
+
+Question:
+Return an array containing prime numbers whose product is x
+input :
+x = 12
+output
+[2,2,3]
+input :
+x = 5
+output
+[5]
+input :
+x = 6
+output
+[2,3]
+
+
+
+
+------------
+
+
+
+
+
+
+
+
+
+
+
