@@ -77,12 +77,23 @@ Output should be : {{1,3,20}, {4,7,15},{8,10,8}
 
 https://leetcode.com/discuss/interview-question/1221593/Coderpad-interview-for-Goldman-Sachs-NYC
 
+18.
+
+1.) Find the second smallest number in an array.
+2.) Given a dictionary of the words(strings) which contains different words & you are given an input string e.g. “abd”. You need to find the largest word available in the supplied dictionary which can be made using the letters of input string. The returned word can contain only the same no of occurrences of the letters as given in the input string i.e. if a letter is given once then in the output it should be existed only once. Examples:
+
+1, Dictionary {“to”, “banana”, “toe”, “dogs”, “ababcd”, “elephant”} and input string is “eot”. Output should be “toe”
+2, Dictionary is same as specified in example a but the input string is “ogtdes” and the output is “dogs” and “toes”
+
+
+https://leetcode.com/discuss/interview-question/1385494/Goldman-Sachs-CoderPad-Round-1
 
 
 
 
 
 
+-----ROUGH----
 Given String and a prefix, find list of indexes of a prefix in that given string.
 
 
